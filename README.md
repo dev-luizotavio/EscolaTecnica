@@ -10,7 +10,7 @@ Utilizando princípios da programação orientada a objetos, o projeto adota uma
 
 
 ## Link do Repositório:
-[Repositório GitHub](https://github.com/projeto-final-agenda/projeto-agenda-final-modulo02)
+[Repositório GitHub](https://github.com/dev-luizotavio/EscolaTecnica)
 
 ## Funcionalidades
 
