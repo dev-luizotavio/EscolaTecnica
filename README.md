@@ -7,24 +7,14 @@ Este projeto é uma evolução da agenda de contatos desenvolvida no módulo ant
 
 Utilizando princípios da programação orientada a objetos, o projeto adota uma estrutura de herança para organizar as classes. A classe **Contato** serve como base (classe pai), e as classes **Aluno** e **Professor** herdam suas funcionalidades e atributos, estendendo o comportamento para incluir dados específicos relacionados a cada tipo de usuário. Isso garante um código mais reutilizável e modular, facilitando a manutenção e a expansão futura do sistema.
 
-## Alunos:
-- **Alana Sampaio Pinto**
-    - [GitHub](https://github.com/AlanaSampaio)
-- **Allana Cristina Diniz Mendes de Ávila**
-    - [GitHub](https://github.com/allanaavila)
-- **Luiz Otávio Ferreira**
-    - [GitHub](https://github.com/dev-luizotavio)
-- **Matheus Toscano Vidal**
-    - [GitHub](https://github.com/toscanomatheus)
-- **Marina Guimarães Vieira**
-    - [GitHub](https://github.com/marinagv95)
+
 
 ## Link do Repositório:
 [Repositório GitHub](https://github.com/projeto-final-agenda/projeto-agenda-final-modulo02)
 
 ## Funcionalidades
 
-### 1. **Gerenciamento de Contatos**
+### 1. **Gerenciamento de Alunos**
    - Adicionar, detalhar, editar e excluir contatos.
    - Contatos são usados como classe pai, proporcionando uma base para a herança de classes específicas, como Aluno e Professor.
    - Garantia de integridade dos dados com validação de duplicidade de números de telefone.
